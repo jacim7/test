@@ -1,0 +1,5 @@
+sum = 0
+for x in range(0,36):
+    sum += 0
+    print("Hello World")
+
